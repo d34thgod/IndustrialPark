@@ -1,0 +1,56 @@
+/* almarai-300 - arabic */
+@font-face {
+    font-family: 'Almarai';
+    font-style: normal;
+    font-weight: 300;
+    src: url('fonts/almarai-v4-arabic-300.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('fonts/almarai-v4-arabic-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/almarai-v4-arabic-300.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/almarai-v4-arabic-300.woff') format('woff'), /* Modern Browsers */
+         url('fonts/almarai-v4-arabic-300.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/almarai-v4-arabic-300.svg#Almarai') format('svg'); /* Legacy iOS */
+  }
+  
+  /* almarai-regular - arabic */
+  @font-face {
+    font-family: 'Almarai';
+    font-style: normal;
+    font-weight: 400;
+    src: url('fonts/almarai-v4-arabic-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('fonts/almarai-v4-arabic-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/almarai-v4-arabic-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/almarai-v4-arabic-regular.woff') format('woff'), /* Modern Browsers */
+         url('fonts/almarai-v4-arabic-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/almarai-v4-arabic-regular.svg#Almarai') format('svg'); /* Legacy iOS */
+  }
+  
+  /* almarai-700 - arabic */
+  @font-face {
+    font-family: 'Almarai';
+    font-style: normal;
+    font-weight: 700;
+    src: url('fonts/almarai-v4-arabic-700.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('fonts/almarai-v4-arabic-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/almarai-v4-arabic-700.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/almarai-v4-arabic-700.woff') format('woff'), /* Modern Browsers */
+         url('fonts/almarai-v4-arabic-700.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/almarai-v4-arabic-700.svg#Almarai') format('svg'); /* Legacy iOS */
+  }
+  
+  /* almarai-800 - arabic */
+  @font-face {
+    font-family: 'Almarai';
+    font-style: normal;
+    font-weight: 800;
+    src: url('fonts/almarai-v4-arabic-800.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('fonts/almarai-v4-arabic-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/almarai-v4-arabic-800.woff2') format('woff2'), /* Super Modern Browsers */
+         url('fonts/almarai-v4-arabic-800.woff') format('woff'), /* Modern Browsers */
+         url('fonts/almarai-v4-arabic-800.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('fonts/almarai-v4-arabic-800.svg#Almarai') format('svg'); /* Legacy iOS */
+  }
+  
